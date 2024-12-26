@@ -2,7 +2,7 @@
 
 Welcome to My GitHub Profile!
 
-Hi there! 👋 I'm a student at 42 Paris, currently diving deep into the world of programming, while also pursuing a degree in law. My passions lie at the fascinating intersection of technology and law, where I explore the latest advancements in digital rights, tech policies, and the future of innovation.
+Hi there! 👋 I'm a student at 42 Paris, where I sharpen my programming skills and take on exciting challenges. Alongside my tech journey, I am also pursuing a degree in law, exploring the fascinating intersection between technology and legal frameworks.
 
 About Me
 
@@ -36,10 +36,8 @@ Let's Connect!
 
 I love connecting with like-minded individuals who share my passion. Feel free to reach out if you'd like to collaborate, discuss ideas, or just say hi!
 
-💌 Email Me
-
-🔗 LinkedIn
-
-📷 Instagram
+- 💌 [Email Me](mailto:mferaoun@42student.42.fr)
+- 🔗 [LinkedIn](www.linkedin.com/in/melissa-feraoun-b73b35173)
+- 📸 [Instagram](https://www.instagram.com/melfrn_/)
 
 Thanks for stopping by! 🌟 Let's make the future brighter together!
