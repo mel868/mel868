@@ -4,7 +4,7 @@ Welcome to My GitHub Profile!
 
 Hi there! 👋 I'm a student at 42 Paris, where I sharpen my programming skills and take on exciting challenges. Alongside my tech journey, I am also pursuing a degree in law, exploring the fascinating intersection between technology and legal frameworks.
 
-#About Me
+# About Me
 
 🎓 Education: 
 * Software Development at 42 Paris
@@ -17,22 +17,22 @@ Hi there! 👋 I'm a student at 42 Paris, where I sharpen my programming skills 
 
 🚀 Learner for Life: Always eager to learn and explore new technologies, programming languages, and ideas.
 
-What You'll Find Here
+# What You'll Find Here
 
 On my GitHub, you can find a collection of my projects, ranging from programming challenges and academic work to personal explorations in tech and law. Some highlights include:
 
-* *C Projects* : My journey through foundational programming concepts and algorithmic challenges.
-* Creative Explorations: Unique ideas and experiments that fulfill my curiosity.
+* **C Projects** : My journey through foundational programming concepts and algorithmic challenges.
+* **Creative Explorations** : Unique ideas and experiments that fulfill my curiosity.
 
-Skills & Tools
+# Skills & Tools
 
-Programming Languages: C, C++, Python (and growing!)
+**Programming Languages**: C, C++, Python (and growing!)
 
-Tech Interests: Algorithms, data structures, Entrepreneurship in the Tech field.
+**Tech Interests**: Algorithms, data structures, Entrepreneurship in the Tech field.
 
-Legal Focus: Information Technology Law, Computational Law, Cybersecurity law, privacy regulations, and intellectual property in the tech world.
+**Legal Focus**: Information Technology Law, Computational Law, Cybersecurity law, privacy regulations, and intellectual property in the tech world.
 
-Let's Connect!
+# Let's Connect!
 
 I love connecting with like-minded individuals who share my passion. Feel free to reach out if you'd like to collaborate, discuss ideas, or just say hi!
 
