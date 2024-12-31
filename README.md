@@ -26,7 +26,7 @@ On my GitHub, you can find a collection of my projects, ranging from programming
 
 ## Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,git,ai,aiscript,vim,neovim,vscode,ubuntu,figma,notion,obsidian,discord,bots,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,git,ai,aiscript,vim,neovim,vscode,ubuntu,figma,notion,obsidian)](https://skillicons.dev)
 
 **Tech Interests**: Algorithms, data science, Entrepreneurship in the Tech field.
 
