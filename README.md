@@ -2,7 +2,7 @@
 
 Welcome to My GitHub Profile!
 
-Hi there! 👋 I'm a computer science student at 42Paris. I am also pursuing a degree in law, exploring the fascinating intersection between technology and legal frameworks.
+I'm a computer science student at [42Paris](42.fr). I am also pursuing a degree in law at [Panthéon-Sorbonne University](https://www.pantheonsorbonne.fr/), exploring the fascinating intersection between technology and legal frameworks.
 
 # About Me
 
