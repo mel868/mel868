@@ -25,6 +25,7 @@ On my GitHub, you can find a collection of my projects, ranging from programming
 * **Creative Explorations** : Unique ideas and experiments that fulfill my curiosity.
 
 ## Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=c, cpp, py, bash, git, ai, aiscript, vim, neovim, vscode, ubuntu, figma, notion, obsidian, discord, bots, apple)](https://skillicons.dev)
 
 **Programming Languages**: C, C++, Python (and growing!)
 
